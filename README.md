@@ -1,5 +1,5 @@
-INSTALL THIS BEFORE RUNNING
+# INSTALL THIS BEFORE RUNNING
 
-pip install pytubefix moviepy mutagen
+```pip install pytubefix moviepy mutagen```
 
-and make sure ffmpeg is installed
+## and make sure ffmpeg is installed
